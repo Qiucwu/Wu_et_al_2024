@@ -1,6 +1,6 @@
 # Scripts for figures from Wu et al. 2024
 ### Content Summary
-The code database contains jupyter notebooks used to make figures for the publication. Each notebook is commented and annotated. For the raw data, please contact the <a href="mailto:qiuwu.cc@gmail">authors</a>
+The code database contains jupyter notebooks used to make figures for the publication. Each notebook is commented and annotated.
 
 This publication includes modeling of pharmacokinetics and pharmacodynamics of murine interleukin 17A (mIL-17A) and Fc fusion of mIL-17A (Fc-mIL-17A).
 Parameter fitting was performed using Scipy.optimize to identify parameters for:
