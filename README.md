@@ -10,4 +10,4 @@ Parameter fitting was performed using Scipy.optimize to identify parameters for:
 The fitted PK and PD models were then combined create a PK/PD model to predict dosing regimens for mIL-17A and Fc-mIL-17A. 
 
 ### Publication Citation:
-Wu, QC., Lee, JM., Swaminathan, A., Winward, A., Hwang, Y., Silver, PA., Socolovsky, M., Way, JC., Klein, AM. Design and characterization of Fc-Fused Interleukin-17A for increased in vivo half-life. (2024)
+Wu, QC., Lee, JM., Swaminathan, A., Winward, A., Hwang, Y., Socolovsky, M., Way, JC., Klein, AM. Design and characterization of Fc-Fused Interleukin-17A for increased in vivo half-life. (2024)
